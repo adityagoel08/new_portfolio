@@ -30,6 +30,10 @@
   margin-bottom: 100px;
 }
 
+.title div {
+  display: block;
+}
+
 .hat-h2 {
   font-style: italic;
 }
