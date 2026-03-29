@@ -26,6 +26,3 @@ dist-ssr
 
 backup/
 .env
-public/models/
-*.glb
-node_modules/
