@@ -9,7 +9,7 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 **Techstack** - Python, SQL, LLMs, RAG Systems, GenAI, Agentic AI, Machine Learning, Data Science, Tableau, Power BI, APIs, NLP & Computer Vision
 
-(public/images/preview.png)
+![Portfolio Preview](public/images/preview.png)
 
 ## License
 
