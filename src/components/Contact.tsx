@@ -15,7 +15,7 @@ const Contact = () => {
               </a>
             </p>
             <h4>Education</h4>
-            <p>B.Tech in Mechanical Engineering</p>
+            <p>B.Tech in Mechanical Engineering <br /><span>CSPO, 6x Azure + Neo4J + Dataiku AI Certified</span></p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -42,14 +42,6 @@ const Contact = () => {
               className="contact-social"
             >
               Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/justbeing_ag/"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

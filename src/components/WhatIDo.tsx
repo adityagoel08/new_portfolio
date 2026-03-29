@@ -31,8 +31,9 @@ const WhatIDo = () => {
           <div>
             W<span className="hat-h2">HAT</span>
           </div>
+          <br />
           <div>
-            I<span className="do-h2"> DO</span>
+            I <span className="do-h2"> DO</span>
           </div>
         </h2>
       </div>
