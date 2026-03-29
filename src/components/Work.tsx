@@ -157,14 +157,19 @@ const Work = () => {
             {projects.map((_, index) => (
               <button
                 key={index}
-                className={`carousel-dot ${index === currentIndex ? "carousel-dot-active" : ""
-                  }`}
+                className={`carousel-dot ${
+                  index === currentIndex ? "carousel-dot-active" : ""
+                }`}
                 onClick={() => goToSlide(index)}
                 aria-label={`Go to project ${index + 1}`}
                 data-cursor="disable"
               />
             ))}
           </div>
+          <p className="work-disclaimer">
+            * Project names and images are mocked for representation purposes
+            due to NDA agreements.
+          </p>
         </div>
       </div>
     </div>
